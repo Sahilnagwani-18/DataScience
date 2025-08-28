@@ -1,0 +1,1 @@
+{"name":"Local: hello","url":"c:\\DataScience\\hello.cpp","tests":[{"id":1755235680665,"input":"2 2 3 4 7 9 -1 -1","output":"500"},{"id":1755236289765,"input":"2 1 2 1 2 3 4 5","output":"474"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DataScience\\hello.cpp","group":"local","local":true}
